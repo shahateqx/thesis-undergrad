@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # 🧠 Deep Learning Driven MRI Processing for ADHD Detection
 
@@ -358,4 +358,4 @@ This project is part of an academic thesis. Please cite appropriately if used in
 **Built with ❤️ for advancing ADHD research through deep learning**
 
 </div>
-]]>
+

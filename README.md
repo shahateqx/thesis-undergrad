@@ -54,7 +54,7 @@ The pipeline converts raw fMRI time-series data into **brain connectivity graphs
 ## 🏗 Architecture
 
 <div align="center">
-  <img src="https://images2.imgbox.com/bc/e5/Zh4hN01Y_o.jpg" alt="Model Architecture Diagram" width="700"/>
+  <a href="https://ibb.co.com/nMZnWqVp"><img src="https://i.ibb.co.com/PG39Ssbk/Screenshot-13-8-2026-194059-docs-google-com.jpg" alt="Screenshot-13-8-2026-194059-docs-google-com" border="0"></a>
   <br/>
   <em>Figure: Overall architecture of the GAT + Phenotype Fusion model for ADHD classification</em>
 </div>
